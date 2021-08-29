@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samoboolean
 - 👀 I’m interested in photography, gaming, programming and computers
-- 🌱 I’m currently learning C# and looking to expand on Java and web frameworks
-- 🏢 Currently studying Bsc (Hons) Computer Science at Plymouth University, UK
+- 🌱 I am familiar with C# and Angular
+- 🏢 Currently studying Bsc (Hons) Computer Science at Plymouth University, UK, doing a placement year as a software developer 
 
 <!---
 Samoboolean/Samoboolean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
