@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samoboolean
 - 👀 I’m interested in photography, gaming, programming and computers
-- 🌱 I am familiar with C# and Angular
+- 🌱 I am familiar with Angular and getting to know Java
 - 🏢 Currently studying Bsc (Hons) Computer Science at Plymouth University, UK, doing a placement year as a software developer 
 
 <!---
